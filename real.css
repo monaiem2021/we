@@ -1,4 +1,4 @@
-﻿@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
 body {
     font-family: montserrat;
 }
@@ -202,12 +202,12 @@ body {
     text-align: center;
 }
 
-.carousel-item {
+.testmonials .carousel-item {
   height: 350px;
     overflow: auto;
 }
 
-.carousel-item img {
+.testmonials .carousel-item img {
     width: 80px;
     height: 80px;
     border-radius: 100%;
@@ -215,7 +215,7 @@ body {
     margin-bottom: 2%;
 }
 
-.carousel-item p {
+.testmonials .carousel-item p {
     width: 40%;
     margin: auto;
     padding-top: 2%;
@@ -235,7 +235,7 @@ em {
 
 
 
-
+/* categories*/
 .categories {
     padding-top: 5%;
     padding-bottom: 5%;
@@ -265,6 +265,18 @@ em {
    
 }
 
+.carousel-women .carousel .carousel-item img {
+ 
+    background-position: 20px 50px;
+    height: 300px;
+}
+
+
+
+
+
+
+
 
 
 .categories .men-category img {
@@ -280,6 +292,37 @@ em {
     
    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -365,6 +408,31 @@ em {
     line-height: 2;
     
    
+}
+
+.carousel-all-categories {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.carousel-all-categories .carousel .carousel-item {
+    height: 300px;
+}
+
+.carousel-all-categories .carousel .carousel-item  img{
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+
+  
+}
+
+
+.carousel-all-categories .carousel .carousel-item .text-on-image {
+    
+    padding-bottom: 1rem;
+    color:  #150E56;
+  
 }
 
 
@@ -577,17 +645,22 @@ em {
         padding-bottom: 2rem;
 }
     
+    
     .title .image .card {
         position: static;
-        margin-top: 5px;
-        margin-bottom: 5px;
         transform: rotate(0);
         margin: auto;
-        margin-top:10px;
+        margin-bottom: 1rem;
+        
+       
+    }
+    
+    .men-jaket .card {
+        margin-bottom: 10px;
     }
     
     
-.carousel-item p {
+.testmonials .carousel-item p {
     width: 100%;
     
 }
@@ -596,6 +669,10 @@ em {
         height: 600px;
     }
     
+    
+    .support .card {
+        margin-bottom: 10px;
+    }
 }
 
 
