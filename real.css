@@ -98,12 +98,12 @@ body {
     padding-bottom: 5px;
 }
 
-.men-jaket .jaket1 .card .card-body .flex1-jaket1 div:last-of-type {
+.men-jaket  .flex1-jaket1 div:last-of-type {
     color: #7B113A;
     padding-bottom: 5px;
 }
 
-.men-jaket .jaket1 .card .card-body .flex2-jaket1 {
+.men-jaket .flex2-jaket1 {
     display: flex;
     justify-content: space-between;
     padding-bottom: 5px;
@@ -484,7 +484,6 @@ em {
 
 .modal .modal-dialog .modal-content .modal-body .user-choice {
     height: 300px;
-    background-color: red;
     background-size: cover;
     background-position: center;
 }
