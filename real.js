@@ -143,8 +143,6 @@ confirmButton.onclick = function (){
 
 
 
-
-
 var firstList = document.getElementById("firstList");
 var secondList = document.getElementById("secondList");
 var thirdList = document.getElementById("thirdList");
@@ -159,51 +157,46 @@ firstList.style.marginTop = "100px";
 
 
 
+
+
 secondList.style.backgroundColor = "#150E56";
 secondList.style.marginTop = "100px";
+secondList.style.cursor = "100px";
+
 
 
 
 thirdList.style.backgroundColor = "#150E56";
 thirdList.style.marginTop = "100px";
+thirdList.style.cursor = "100px";
+
 
 
 
 fourthList.style.backgroundColor = "#150E56";
 fourthList.style.marginTop = "100px";
+fourthList.style.cursor = "100px";
 
 
 fifthList.style.backgroundColor = "#150E56";
 fifthList.style.marginTop = "100px";
+fifthList.style.cursor = "100px";
+
 
 
 sixthList.style.backgroundColor = "#150E56";
 sixthList.style.marginTop = "100px";
-
-
-
-seventhList.style.backgroundColor = "#150E56";
-seventhList.style.marginTop = "100px";
-
-
-
-
-
-
+sixthList.style.cursor = "100px";
 
 
 
 
 seventhList.style.backgroundColor = "#150E56";
 seventhList.style.marginTop = "100px";
+seventhList.style.cursor = "100px";
 
 
 
 
 
 
-
-
-
-
-//
