@@ -24,7 +24,7 @@ eyeJaket1.onclick = function () {
     userChoice.style.backgroundImage = "url(images/jaket2.jpg)";
     wordAboutProduct.innerHTML = "Most sold 2021";
     wordAboutProduct.style.marginTop = "10px";
-    exampleModalLongTitle.innerHTML = "jaket1";
+    exampleModalLabel.innerHTML = "jaket1";
   
 }
 
@@ -59,7 +59,7 @@ eyeJaket2.onclick = function () {
     userChoice.style.backgroundImage = "url(images/jaket3.jpg)";
     wordAboutProduct.innerHTML = "Most sold 2021";
     wordAboutProduct.style.marginTop = "10px";
-    exampleModalLongTitle.innerHTML = "jaket2";
+    exampleModalLabel.innerHTML = "jaket2";
 }
 
 // end of: when user clicks on order2 of jaket2 there will be another div appear with details of the product
