@@ -154,7 +154,7 @@ var sixthList = document.getElementById("sixthList");
 var seventhList = document.getElementById("seventhList");
 
 
-firstList.style.backgroundColor = "#150E56";
+firstList.style.backgroundColor = "red";
 firstList.style.marginTop = "100px";
 firstList.style.cursor = "100px";
 firstList.style.top = "10px";
