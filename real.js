@@ -143,6 +143,8 @@ confirmButton.onclick = function (){
 
 
 
+
+
 var firstList = document.getElementById("firstList");
 var secondList = document.getElementById("secondList");
 var thirdList = document.getElementById("thirdList");
@@ -200,3 +202,9 @@ seventhList.style.cursor = "100px";
 
 
 
+
+
+
+
+
+//
