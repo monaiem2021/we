@@ -161,30 +161,6 @@ firstList.style.marginTop = "100px";
 
 
 
-
-secondList.style.backgroundColor = "#150E56";
-secondList.style.marginTop = "100px";
-
-
-thirdList.style.backgroundColor = "#150E56";
-thirdList.style.marginTop = "100px";
-thirdList.style.cursor = "100px";
-
-
-
-
-fourthList.style.backgroundColor = "#150E56";
-fourthList.style.marginTop = "100px";
-
-
-fifthList.style.backgroundColor = "#150E56";
-fifthList.style.marginTop = "200px";
-
-
-sixthList.style.backgroundColor = "#150E56";
-sixthList.style.marginTop = "100px";
-
-
 seventhList.style.backgroundColor = "#150E56";
 seventhList.style.marginTop = "100px";
 
