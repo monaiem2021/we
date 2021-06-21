@@ -13,7 +13,7 @@ var exampleModalLabel = document.getElementById("exampleModalLabel");
 //start of: when user clicks on order1 of jaket1 there will be another div appear with details of the product
 orderJaket1.onclick = function () {
     "use strict";
-    userChoice.style.backgroundImage = "url(jaket2.jpg)";
+    userChoice.style.backgroundImage = "url(images/jaket2.jpg)";
     wordAboutProduct.innerHTML = "Most sold 2021";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLabel.innerHTML = "jaket1";
@@ -21,7 +21,7 @@ orderJaket1.onclick = function () {
 
 eyeJaket1.onclick = function () {
     "use strict";
-    userChoice.style.backgroundImage = "url(jaket2.jpg)";
+    userChoice.style.backgroundImage = "url(images/jaket2.jpg)";
     wordAboutProduct.innerHTML = "Most sold 2021";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLongTitle.innerHTML = "jaket1";
@@ -48,7 +48,7 @@ var userChoice = document.getElementById("userChoice");
 //start of: when user clicks on order2 of jaket2 there will be another div appear with details of the product
 orderJaket2.onclick = function () {
     "use strict";
-     userChoice.style.backgroundImage = "url(jaket3.jpg)";
+     userChoice.style.backgroundImage = "url(images/jaket3.jpg)";
     wordAboutProduct.innerHTML = "Classic jaket 2021";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLabel.innerHTML = "jaket2";   
@@ -56,7 +56,7 @@ orderJaket2.onclick = function () {
 
 eyeJaket2.onclick = function () {
     "use strict";
-    userChoice.style.backgroundImage = "url(jaket3.jpg)";
+    userChoice.style.backgroundImage = "url(images/jaket3.jpg)";
     wordAboutProduct.innerHTML = "Most sold 2021";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLongTitle.innerHTML = "jaket2";
@@ -76,7 +76,7 @@ var userChoice = document.getElementById("userChoice");
 //start of: when user clicks on order3 of jaket2 there will be another div appear with details of the product
 orderJaket3.onclick = function () {
     "use strict";
-     userChoice.style.backgroundImage = "url(jaket4.jpg)";
+     userChoice.style.backgroundImage = "url(images/jaket4.jpg)";
     wordAboutProduct.innerHTML = "good choice for 2021";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLabel.innerHTML = "jaket3";   
@@ -84,7 +84,7 @@ orderJaket3.onclick = function () {
 
 eyeJaket3.onclick = function () {
     "use strict";
-    userChoice.style.backgroundImage = "url(jaket4.jpg)";
+    userChoice.style.backgroundImage = "url(images/jaket4.jpg)";
     wordAboutProduct.innerHTML = "Most sold 2021";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLabel.innerHTML = "jaket3";
@@ -105,7 +105,7 @@ var textUserChoice = document.getElementById("textUserChoice");
 //start of: when user clicks on order4 of jaket4 there will be another div appear with details of the product
 orderJaket4.onclick = function () {
     "use strict";
-     userChoice.style.backgroundImage = "url(jaket5.jpg)";
+     userChoice.style.backgroundImage = "url(images/jaket5.jpg)";
     wordAboutProduct.innerHTML = "classic with good materials";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLabel.innerHTML = "jaket4";   
@@ -113,7 +113,7 @@ orderJaket4.onclick = function () {
 
 eyeJaket4.onclick = function () {
     "use strict";
-     userChoice.style.backgroundImage = "url(jaket5.jpg)";
+     userChoice.style.backgroundImage = "url(images/jaket5.jpg)";
     wordAboutProduct.innerHTML = "classic with good materials";
     wordAboutProduct.style.marginTop = "10px";
     exampleModalLabel.innerHTML = "jaket4";   
@@ -157,43 +157,47 @@ var seventhList = document.getElementById("seventhList");
 firstList.style.backgroundColor = "#150E56";
 firstList.style.marginTop = "100px";
 firstList.style.cursor = "100px";
+firstList.style.top = "10px";
+
 
 
 
 secondList.style.backgroundColor = "#150E56";
 secondList.style.marginTop = "100px";
 secondList.style.cursor = "100px";
+secondList.style.top = "10px";
 
 
 
 thirdList.style.backgroundColor = "#150E56";
 thirdList.style.marginTop = "100px";
 thirdList.style.cursor = "100px";
+thirdList.style.top = "10px";
 
 
 
 fourthList.style.backgroundColor = "#150E56";
 fourthList.style.marginTop = "100px";
 fourthList.style.cursor = "100px";
-
+fourthList.style.top = "10px";
 
 fifthList.style.backgroundColor = "#150E56";
 fifthList.style.marginTop = "100px";
 fifthList.style.cursor = "100px";
-
+fifthList.style.top = "10px";
 
 
 sixthList.style.backgroundColor = "#150E56";
 sixthList.style.marginTop = "100px";
 sixthList.style.cursor = "100px";
-
+sixthList.style.top = "10px";
 
 
 
 seventhList.style.backgroundColor = "#150E56";
 seventhList.style.marginTop = "100px";
 seventhList.style.cursor = "100px";
-
+seventhstList.style.top = "10px";
 
 
 
