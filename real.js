@@ -154,50 +154,39 @@ var sixthList = document.getElementById("sixthList");
 var seventhList = document.getElementById("seventhList");
 
 
-firstList.style.backgroundColor = "red";
+firstList.style.backgroundColor = "#150E56";
 firstList.style.marginTop = "100px";
-firstList.style.cursor = "100px";
-firstList.style.top = "10px";
+
+
 
 
 
 
 secondList.style.backgroundColor = "#150E56";
 secondList.style.marginTop = "100px";
-secondList.style.cursor = "100px";
-secondList.style.top = "10px";
-
 
 
 thirdList.style.backgroundColor = "#150E56";
 thirdList.style.marginTop = "100px";
 thirdList.style.cursor = "100px";
-thirdList.style.top = "10px";
+
 
 
 
 fourthList.style.backgroundColor = "#150E56";
 fourthList.style.marginTop = "100px";
-fourthList.style.cursor = "100px";
-fourthList.style.top = "10px";
+
 
 fifthList.style.backgroundColor = "#150E56";
 fifthList.style.marginTop = "100px";
-fifthList.style.cursor = "100px";
-fifthList.style.top = "10px";
 
 
 sixthList.style.backgroundColor = "#150E56";
 sixthList.style.marginTop = "100px";
-sixthList.style.cursor = "100px";
-sixthList.style.top = "10px";
-
 
 
 seventhList.style.backgroundColor = "#150E56";
 seventhList.style.marginTop = "100px";
-seventhList.style.cursor = "100px";
-seventhstList.style.top = "10px";
 
 
 
